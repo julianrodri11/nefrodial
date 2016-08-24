@@ -16,6 +16,7 @@
           <li><a href="servicios.php"><i class="material-icons left ">supervisor_account</i>Servicios</a></li>
           <li><a href="instalaciones.php"><i class="material-icons left ">business</i>Instalaciones</a></li>                          
           <li><a href="contactenos.php"><i class="material-icons left ">visibility</i>Contáctenos</a></li>          
+          <li><a href="http://nefrodial.com:8383/clinica/paginas/login.jsp"><i class="material-icons left red-text text-lighten-4">closed_caption</i>Sistema</a></li> 
         </ul>
         <ul class="side-nav" id="mobile-demo">
         <li><div class="userView">
@@ -32,6 +33,22 @@
       </div>
       </div>
     </nav>
+  </div>
+
+  <div class="containt">
+    <div class="row">
+        <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+          <a class="btn-floating btn-large red">
+            <i class="large material-icons">mode_edit</i>
+          </a>
+          <ul>
+            <li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
+            <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>
+            <li><a class="btn-floating green"><i class="material-icons">publish</i></a></li>
+            <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
+          </ul>
+        </div>
+    </div>
   </div>
   
     

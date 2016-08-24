@@ -27,9 +27,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col s12"><h3 class="center-align"><i class="small material-icons ">description</i>Reseña Histórica</h3></div>
-			<div class="col s6 m6">La  Unidad Renal es una institución de naturaleza privada , con animo de lucro, con domicilio principal en la ciudad de Pasto,en  la calle 14 No. 34-24 Clinica Proinsalud cuarto piso, especializada en la prestación de servicios de Nefrologia que a lo largo de sus 10 años de funcionamiento se ha caracterizado por la calidad del servicio, buscando siempre la mejora continua.   NEFRODIAL S.A.S  fue constituida legalmente mediante escritura publica No. 1477 del 20 de mayo del 2014 en la Notaria tercera de Pasto y registrada en la camara de comercio el  9 de junio del 2004  bajo el numero 1759 del libro IX.
+			<div class="col s12 m6">La  Unidad Renal es una institución de naturaleza privada , con animo de lucro, con domicilio principal en la ciudad de Pasto,en  la calle 14 No. 34-24 Clinica Proinsalud cuarto piso, especializada en la prestación de servicios de Nefrologia que a lo largo de sus 10 años de funcionamiento se ha caracterizado por la calidad del servicio, buscando siempre la mejora continua.   NEFRODIAL S.A.S  fue constituida legalmente mediante escritura publica No. 1477 del 20 de mayo del 2014 en la Notaria tercera de Pasto y registrada en la camara de comercio el  9 de junio del 2004  bajo el numero 1759 del libro IX.
 			</div>
-			<div class="col s6 m6">La  Unidad Renal  NEFRODIAL S.A.S  nace de una alianza de médicos Nariñeses que han unido sus esfuerzos para llevar a cabo este proyecto de salud y ofrecer un mejor servicio de Nefrologia dentro de una competencia leal y sobretodo con calida y calidez en la atención del paciente renal de Nariño .
+			<div class="col s12 m6">La  Unidad Renal  NEFRODIAL S.A.S  nace de una alianza de médicos Nariñeses que han unido sus esfuerzos para llevar a cabo este proyecto de salud y ofrecer un mejor servicio de Nefrologia dentro de una competencia leal y sobretodo con calida y calidez en la atención del paciente renal de Nariño .
 Por otra parte cabe resaltar que se construyo la Unidad renal NEFRODIAL S.A.S  en la ciudad de Ipiales ya que nuestro proposito es acercarnos al lugar de residencia del paciente para evitarle los viajes costosos a otras ciudades 
 			</div>
 		</div>
