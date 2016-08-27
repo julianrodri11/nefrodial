@@ -4,6 +4,8 @@
               <div class="col l6 s12">
                 <h5 class="white-text">Contáctenos</h5>
                 <p class="grey-text text-lighten-4">Estamos ubicados en la ciudad de Pasto-Nariño, Colombia en la dirección: Carrera32B #14.</p>
+                <p class="grey-text text-lighten-4">San Juan de Pasto: </p>
+                <p class="grey-text text-lighten-4">Ipiales: </p>
                 <p class="grey-text text-lighten-4">Teléfonos: </p>
                 <p class="grey-text text-lighten-4">Correo electrónico: </p>
               </div>
