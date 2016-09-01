@@ -9,7 +9,7 @@
     <nav>
       <div class="container">
       <div class="nav-wrapper ">
-        <a href="index.php" class="brand-logo animated tada "><img class="circle" width="80"  src="images/unidad_renal.png"></a>
+        <a href="index.php" class="brand-logo"><img class="circle animated fadeInUpBig" width="80"  src="images/unidad_renal.png"></a>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="right hide-on-med-and-down animated rotateInUpLeft">
           <li><a href="nuestra_empresa.php"><i class="material-icons left">assignment_ind</i>Nuestra Empresa</a></li>
