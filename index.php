@@ -24,12 +24,12 @@
 	</script>
 
 
-<div class="container">
+<div class="container ">
 <div class="row"> 
 		<div class="slider">
 		    <ul class="slides">
 		      <li>
-		        <img src="images/unidad_renal_ipiales.jpg"> <!-- random image -->
+		        <img class="animated zoomInUp" src="images/unidad_renal_ipiales.jpg"> <!-- random image -->
 		        <div class="caption center-align">
 		          <h3 class="blue-text text-darken-4">Unidad Renal Nefrodial S.A.S</h3>
 		          <h5 class="light grey-text text-lighten-3  text-accent-3">Una verdadera opción de vida</h5>
@@ -69,7 +69,7 @@
   <br>
 </div>
 
-<div class="container">
+<div class="container ">
 	<div class="row">
 		<div class="col s12 m6 l4"><div class="center"><i class="material-icons large red-text text-lighten-3">person_pin</i> </div><h5 class="center-align"><i class="material-icons">add</i>Respeto</h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
