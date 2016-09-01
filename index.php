@@ -63,7 +63,7 @@
 </div>
 
 <div class="container">
- 	<div class="collection">
+ 	<div class="collection" id="valores">
     	<h5 class="center-align">Nuestros Valores</h5>
   	</div>
   <br>
@@ -119,7 +119,7 @@
   <div class="section white">
     <div class="row container">
       <h2 class="header">Unidad Renal Nefrodial S.A.S</h2>
-      <p class="grey-text text-darken-3 lighten-3"><h4><em>Una verdadera opción de vida</em></h4></p>
+      <p class="grey-text text-darken-3 lighten-3"><h4>Una verdadera opción de vida</h4></p>
     </div>
   </div>
   <div class="parallax-container">
