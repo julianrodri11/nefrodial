@@ -24,10 +24,10 @@
 	</script>
 
 
-<div class="container ">
+<div class="container">
 <div class="row"> 
-		<div class="slider">
-		    <ul class="slides">
+		<div class="slider ">
+		    <ul class="slides red lighten-5">
 		      <li>
 		        <img class="animated zoomInUp" src="images/unidad_renal_ipiales.jpg"> <!-- random image -->
 		        <div class="caption center-align">
@@ -70,20 +70,20 @@
 </div>
 
 <div class="container ">
-	<div class="row">
-		<div class="col s12 m6 l4 efeVal1" ><div class="center"><i class="material-icons large red-text text-lighten-3">person_pin</i> </div><h5 class="center-align"><i class="material-icons">add</i>Respeto</h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	<div class="row card-panel red lighten-5">
+		<div class="col s12 m6 l4 efeVal1  " ><div class="center"><i class="material-icons large red-text text-lighten-3">person_pin</i> </div><h5 class="center-align"><i class="material-icons">add</i>Respeto</h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
-		<div class="col s12 m6 l4 efeVal1" ><div class="center"><i class="material-icons large red-text text-lighten-3">person_pin</i> </div><h5 class="center-align"><i class="material-icons">add</i>Compromiso</h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		<div class="col s12 m6 l4 efeVal1 " ><div class="center"><i class="material-icons large red-text text-lighten-3">person_pin</i> </div><h5 class="center-align"><i class="material-icons">add</i>Compromiso</h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
-		<div class="col s12 m6 l4 efeVal1" "><div class="center"><i class="material-icons large red-text text-lighten-3">person_pin</i> </div><h5 class="center-align"><i class="material-icons">add</i>Responsabilidad</h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		<div class="col s12 m6 l4 efeVal1 " "><div class="center"><i class="material-icons large red-text text-lighten-3">person_pin</i> </div><h5 class="center-align"><i class="material-icons">add</i>Responsabilidad</h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
