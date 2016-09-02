@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>		
-		Sistema de administración de usuarios
+		Nefrodial
 	</title>
 	<?php include_once('links.php'); ?>
 </head>
@@ -38,8 +38,8 @@
 		      <li>
 		        <img src="images/sala_unidadrenal.jpg"> <!-- random image -->
 		        <div class="caption left-align">
-		          <!--h3>Sala de hemodialisis</h3>
-		          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5-->
+		          <h3>Sala de hemodialisis</h3>
+		          <h5 class="light grey-text text-lighten-3">Pagina en desarrollo</h5>
 		        </div>
 		      </li>
 		      <li>
