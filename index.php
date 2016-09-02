@@ -2,7 +2,11 @@
 <html>
 <head>
 	<title>		
+<<<<<<< HEAD
 		Nefrodial
+=======
+		Nefrodial - Unidad Renal
+>>>>>>> e1c40e0a2179448c6e800ed7e71b00462a3bbdea
 	</title>
 	<?php include_once('links.php'); ?>
 </head>
