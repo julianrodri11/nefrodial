@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>		
-		Sistema de administración de usuarios
+		Nefrodial - Unidad Renal
 	</title>
 	<?php include_once('links.php'); ?>
 </head>
